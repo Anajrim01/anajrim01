@@ -17,6 +17,8 @@
 - Actively contributing to:
   - **Private Projects**
   - **[SlickGPT](https://github.com/ShipBit)** ⊷ An AI project I am excited about.
+
+- Previous contributions:
   - **[ReVanced](https://github.com/Revanced)** ⊷ A versatile patching framework for multiple apps.
 
 ### Notable Previous Work
