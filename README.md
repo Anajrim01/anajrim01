@@ -19,7 +19,7 @@ I'm a passionate student enthusiastic about programming and Free and Open Source
 - **ItroublveTSC**
 - **Tokens.rip**
 - **Captcha-less Discord Token Joiner** (Available on request)
-- hCaptcha Bypass (Now patched)
+- **hCaptcha Bypass** (Now patched)
 
 ## Let's Collaborate!
 - **Contact**: Discord or raise an issue in one of my repositories
