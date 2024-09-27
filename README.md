@@ -27,14 +27,6 @@
 - **Captcha-less Discord Token Joiner** (private, can give out on request)
 - Developed an **hCaptcha bypass** (private, now patched).
 
-### Coding Preferences
-- Favor working with **C#** the most, but can adapt to **Python** and **JavaScript** as required.
-- **Programming Mantra**: "My code might be messy, but if it works, I’m proud of it. Always striving to do better."
-
-### Learning and Inspiration
-- **Favorite Resource**: Stack Overflow and AI.
-- **Philosophy**: Compete against yourself; strive for continuous self-improvement.
-
 ### Let's Collaborate!
 - **Reach Me On**: Discord (or open an issue in one of my repositories).
 - **Open to Collaboration**: Particularly interested in projects related to **exploits** and **simplifying daily tasks**.
@@ -46,10 +38,6 @@
 
 ### Top Languages 🌐
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anajrim01&layout=compact&theme=radical)
-
-### Fun Facts and Hobbies
-- Still exploring my hobbies beyond coding.
-- A note about my coding style: Always room to improve, but as long as it works, it’s a small victory!
 
 ---
 
