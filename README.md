@@ -10,7 +10,7 @@ I code.
 
 ## Projects
 - **Current Focus**:
-  - **[SlickGPT](https://github.com/ShipBit)** - AI project
+  - **[SlickGPT](https://github.com/ShipBit)** - An alternative to ChatGPT (but better)
   - Private Projects
 - **Past Contributions**:
   - **[ReVanced](https://github.com/Revanced)** - Patching framework 
