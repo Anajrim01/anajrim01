@@ -1,4 +1,4 @@
-# Anajrim (aka Itroublve)
+# Anajrim
 
 ## About Me
 I code.
