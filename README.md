@@ -13,7 +13,7 @@ I code.
   - Private Projects
 - **Past Contributions**:
   - **[SlickGPT](https://github.com/ShipBit)** - A lightweight alternative to ChatGPT
-  - **[ReVanced](https://github.com/Revanced)** - Patching framework 
+  - **[ReVanced](https://github.com/Revanced)** - Android patching framework
 
 ## Notable Work
 - **ItroublveTSC**
