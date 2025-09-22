@@ -1,19 +1,12 @@
 # Anajrim
 
 ## About Me
-I code.
+This took me 1 hour to perfect... maybe.
 
 ## Skills
 - **Languages**: C#, Python, Java, JavaScript, Batch, Kotlin (First being most exprience to least)
 - **Frameworks**: Svelte (Learning)
 - **Technologies**: Oracle Cloud, AI models
-
-## Projects
-- **Current Focus**:
-  - Private Projects
-- **Past Contributions**:
-  - **[SlickGPT](https://github.com/ShipBit)** - A lightweight alternative to ChatGPT
-  - **[ReVanced](https://github.com/Revanced)** - Android patching framework
 
 ## Notable Work
 - **ItroublveTSC**
@@ -23,9 +16,3 @@ I code.
 
 ## Let's Collaborate!
 - **Contact**: Anajrim01 (Discord)
-
----
-
-![Anajrim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anajrim01&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anajrim01&layout=compact&theme=radical)
