@@ -15,4 +15,4 @@ This took me 1 hour to perfect... maybe.
 - **hCaptcha Bypass** (Now patched)
 
 ## Let's Collaborate!
-- **Contact**: Anajrim01 (Discord)
+- **Contact**: github@anajrim.me or Anajrim01 on Discord 
