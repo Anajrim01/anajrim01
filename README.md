@@ -1,22 +1,21 @@
 # Anajrim
 
-Software engineer and open-source contributor studying Computer Science
-and Engineering at Chalmers University of Technology.
+<img src="./assets/cat.jpg" width="180" align="right" alt="Coco!" />
 
-I work on embedded systems, backend development, Linux infrastructure,
-and application security. I am especially interested in reverse engineering,
-secure software design, and understanding systems at a low level.
+I'm a software engineer and open-source maintainer studying Computer Science and Engineering at Chalmers University of Technology.
 
-## Focus areas
+I like understanding systems from the inside out — especially the parts that aren't meant to be touched very often.
 
-- **Languages:** C, C#, Python, Java, JavaScript, Kotlin
-- **Frameworks:** SvelteKit
-- **Infrastructure:** Linux, Docker, Proxmox, reverse proxies, DNS
-- **Backend:** REST APIs, databases, cloud deployments
-- **Security:** Reverse engineering, controlled security experiments,
-  vulnerability analysis, and defensive tooling
+Most of what I work on lives somewhere around **systems, Android, backend engineering, infrastructure, and reverse engineering**. Sometimes I build things from scratch; just as often I end up inside an existing system, figuring out how it behaves and then fixing, extending, porting, or automating it.
 
-## Find me
+I maintain [Phodrive](https://github.com/madkarmaa/phodrive) and contribute to other open-source projects when I find something interesting enough to pull apart.
 
-- Portfolio: [anajrim.me](https://anajrim.me)
-- Contact: [github@anajrim.me](mailto:github@anajrim.me)
+### Usually somewhere around
+
+`C` · `C#` · `Python` · `Java` · `Kotlin` · `TypeScript`
+
+Linux · Android · networking · self-hosting · backend systems · the occasional thing I probably shouldn't be poking at
+
+### Elsewhere
+
+[anajrim.me](https://anajrim.me) · [github@anajrim.me](mailto:github@anajrim.me)
