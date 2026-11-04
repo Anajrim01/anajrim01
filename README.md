@@ -8,7 +8,7 @@ I like figuring out how things work, especially when that means going below the 
 
 Most of my work is around **systems, Android, backend development, infrastructure, and reverse engineering**. I build my own tools, dig into existing systems, and contribute upstream when I find something worth fixing.
 
-I started maintaining [Phodrive](https://github.com/madkarmaa/phodrive).
+I maintain [Phodrive](https://github.com/madkarmaa/phodrive).
 
 ### Things I work with
 
