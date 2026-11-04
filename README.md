@@ -1,20 +1,20 @@
 # Anajrim
 
-<img src="./assets/cat.jpg" width="180" align="right" alt="Coco!" />
+<img src="./assets/cat.png" width="180" align="right" alt="My cat" />
 
 I'm a software engineer and open-source maintainer studying Computer Science and Engineering at Chalmers University of Technology.
 
-I like understanding systems from the inside out — especially the parts that aren't meant to be touched very often.
+I like figuring out how things work, especially when that means going below the usual abstractions.
 
-Most of what I work on lives somewhere around **systems, Android, backend engineering, infrastructure, and reverse engineering**. Sometimes I build things from scratch; just as often I end up inside an existing system, figuring out how it behaves and then fixing, extending, porting, or automating it.
+Most of my work is around systems, Android, backend development, infrastructure, and reverse engineering. I build my own tools, maintain existing projects, and contribute upstream when I find something worth fixing or improving.
 
-I maintain [Phodrive](https://github.com/madkarmaa/phodrive) and contribute to other open-source projects when I find something interesting enough to pull apart.
+I maintain [Phodrive](https://github.com/madkarmaa/phodrive).
 
-### Usually somewhere around
+### Things I use
 
 `C` · `C#` · `Python` · `Java` · `Kotlin` · `TypeScript`
 
-Linux · Android · networking · self-hosting · backend systems · the occasional thing I probably shouldn't be poking at
+Linux · Android · Docker · Proxmox · SvelteKit · networking · self-hosting
 
 ### Elsewhere
 
