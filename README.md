@@ -14,7 +14,7 @@ I maintain [Phodrive](https://github.com/madkarmaa/phodrive).
 
 `C` · `C#` · `Python` · `Java` · `Kotlin` · `TypeScript`
 
-Linux · Android · Docker · Proxmox · SvelteKit · networking · self-hosting
+Linux · Android · Docker · Proxmox · SvelteKit · Networking · Self-hosting
 
 ### Elsewhere
 
