@@ -6,7 +6,7 @@ I'm a software engineer and open-source maintainer studying Computer Science and
 
 I like figuring out how things work, especially when that means going below the usual abstractions.
 
-Most of my work is around **systems, Android, backend development, infrastructure, and reverse engineering**. I build my own tools, dig into existing systems, and contribute upstream when I find something worth fixing.
+Most of my work is around **systems, android, backend development, infrastructure, and reverse engineering**. I build my own tools, dig into existing systems, and contribute upstream when I find something worth fixing.
 
 I maintain [Phodrive](https://github.com/madkarmaa/phodrive).
 
